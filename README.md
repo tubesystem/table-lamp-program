@@ -1,9 +1,9 @@
 # table-lamp-program
 
 the driver for table lamp
-feather: 
+feature : 
     on/ off
-todo, add more feather:     
+todo, add more feature :     
     dim the light
     sensor debouncing, Filter noise, use Schmitt trigger,
     voice control on/off
